@@ -1,0 +1,15 @@
+/* h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: bold;
+} */
+
+li{
+    cursor: pointer;
+    text-decoration: none;
+    list-style: none;
+}
